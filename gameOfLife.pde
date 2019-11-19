@@ -10,7 +10,7 @@ boolean colorGradient = true;
 void setup() {
   size(1000, 1000);
   frameRate(15);
-  surface.setTitle("Jeu de la vie");
+  surface.setTitle("Conway's game of life");
   generation1 = generateEmpty();
   //generation1 = generate();
   ellipseMode(CENTER);
