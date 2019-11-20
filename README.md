@@ -1,6 +1,8 @@
 # GameOfLife
 A Processing Conway's game of life implementation.
 
+!(https://github.com/SchwabNicolas/GameOfLife/blob/master/image/gameOfLife.png)
+
 ## Commands
 ### Play/stop game
 Press 'Space'.
