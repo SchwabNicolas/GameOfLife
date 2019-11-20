@@ -21,3 +21,6 @@ Press 'R'.
 
 ### Set cell state
 Left click to set it alive and right click to set it dead.
+
+### Convert an image into a grid
+You can generate a save with the program ![ImageToProcessingGameOfLife](https://github.com/SchwabNicolas/ImageToProcessingGameOfLife) and import it here.
